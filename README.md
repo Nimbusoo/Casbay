@@ -26,18 +26,18 @@ Casbay now offers **both M4 and M6 generation Mac minis** as dedicated (non-shar
 
 | Billing Cycle | Price | Order |
 |---|---|---|
-| Monthly | $149/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&affid=36&billingcycle=monthly&pid=216) |
-| Semi-Annually | $129/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&affid=36&billingcycle=semiannually&pid=216) |
-| Annually | **$109/mo** | [Order Now](https://billing.casbay.com/cart.php?a=add&affid=36&billingcycle=annually&pid=216) |
+| Monthly | $149/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&aff=36&billingcycle=monthly&pid=216) |
+| Semi-Annually | $129/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&aff=36&billingcycle=semiannually&pid=216) |
+| Annually | **$109/mo** | [Order Now](https://billing.casbay.com/cart.php?a=add&aff=36&billingcycle=annually&pid=216) |
 
 ### Mac mini M6 Dedicated Server (Pre-order, shipping from September 22)
 12-core CPU / 12-core GPU · 16GB RAM · 256GB storage · 100Mbps unmetered bandwidth · 1 IP (dynamic residential or static, your choice)
 
 | Billing Cycle | Price | Order |
 |---|---|---|
-| Monthly | $169/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&affid=36&billingcycle=monthly&pid=217) |
-| Semi-Annually | $149/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&affid=36&billingcycle=semiannually&pid=217) |
-| Annually | **$119/mo** | [Order Now](https://billing.casbay.com/cart.php?a=add&affid=36&billingcycle=annually&pid=217) |
+| Monthly | $169/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&aff=36&billingcycle=monthly&pid=217) |
+| Semi-Annually | $149/mo | [Order Now](https://billing.casbay.com/cart.php?a=add&aff=36&billingcycle=semiannually&pid=217) |
+| Annually | **$119/mo** | [Order Now](https://billing.casbay.com/cart.php?a=add&aff=36&billingcycle=annually&pid=217) |
 
 ---
 
